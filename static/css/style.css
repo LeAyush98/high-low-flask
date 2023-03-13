@@ -1,0 +1,73 @@
+body{
+    background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhkYTBmYmE3NzI0Y2UwYzhjOWNmMDVmMWZmYjg4OWY1MDk4ZGQ4OCZjdD1n/b29IZK1dP4aWs/giphy.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: #C9EEFF;
+    margin: auto;
+    align-self: center;
+    text-align: center;
+}
+
+h1{ 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    backdrop-filter: blur(10px);
+    color:#9DC08B;
+    font-size:2.5em;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    margin: auto;
+    align-self: center;
+    text-align: center;
+    width: 20%;
+}
+
+#numberhtml{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    backdrop-filter: blur(10px);
+    color:#9DC08B;
+    font-size:2.5em;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    margin: auto;
+    align-self: center;
+    text-align: center;
+    width: 20%;
+    color: tomato;
+
+}
+
+#done{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    backdrop-filter: blur(10px);
+    color:#9DC08B;
+    font-size:2.5em;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    margin: auto;
+    align-self: center;
+    text-align: center;
+    width: 20%;
+    color: #38E54D;
+
+}
+
+img{
+    width: 20%;
+    border-radius: 100%;
+}
+
+#button{
+    padding: 2%;
+    border-radius: 50%;
+    font-weight: bold;
+}
+
+#Input{
+    margin: 2.5%;
+    width: 3%;
+    backdrop-filter: blur(10px);
+    text-decoration: solid;
+    border-style: solid;
+    border-color: black;
+}
